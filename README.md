@@ -12,4 +12,4 @@ In this project I used OpenCV to record the amount of bicep curls I could do, in
 <strong> This is my arm going up </strong> <br>
 ![Screenshot 2023-06-01 at 4 27 48 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/14d016fe-848a-4adc-928d-f94e736eb109) <br>
 <strong> This is my arm going down </strong> <br>
-![Screenshot 2023-06-01 at 4 27 48 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/ee14d30c-d05e-4570-bb77-d97815e5e676) <br>
+![Screenshot 2023-06-01 at 4 28 47 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/67c9583b-4c28-42d8-afd3-ac0315847de6) <br>
