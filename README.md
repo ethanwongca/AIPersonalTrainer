@@ -1,4 +1,4 @@
-# AIPersonalTrainer
+# AI Personal Trainer
 This code records the amount of bicep curls etc. 
 
 <h2> Libraries and Languages </h2>
