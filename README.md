@@ -27,7 +27,8 @@ By readujusting the angles again, but this time including the landmarks of the h
 
 
 ![Squat_down](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/a125ee68-d2bd-40c9-9fd6-34f6bedded0c)
+![Squat Up](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/29ad0836-4157-49be-8f93-088a7c722997)
 
-![Squat_down](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/b7cb6fe3-5c67-4037-bf1e-d098c70f5e21)
+
 
 Anyways enjoy the project!
