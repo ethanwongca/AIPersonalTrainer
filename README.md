@@ -1,5 +1,6 @@
 # AI Personal Trainer
-This code records the amount of bicep curls, pushups and squats. 
+This code records the amount of bicep curls, pushups and squats. <br>
+The objective of this project was to learn some computer vision along with applying some linear algebra to calculate angles of specific exercises. 
 
 <h2> Libraries and Languages </h2>
 OpenCV, Mediapipe, Numpy, and Python 3
