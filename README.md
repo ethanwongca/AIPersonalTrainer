@@ -2,7 +2,7 @@
 This code records the amount of bicep curls etc. 
 
 <h2> Libraries and Languages </h2>
-OpenCV, Mediapipe, and Python 3
+OpenCV, Mediapipe, Numpy, and Python 3
 
 <h2> Different Projects </h2>
 
