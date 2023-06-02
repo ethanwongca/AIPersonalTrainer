@@ -28,4 +28,5 @@ This is me going down on the fourth rep. <br>
 ![Screenshot 2023-06-01 at 5 57 14 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/53a7a410-4e70-452b-96f0-dbfbe8582b3f) <br>
 This is me up on the fifth rep <br>
 ![Screenshot 2023-06-01 at 5 57 36 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/003c4db0-ab15-46d8-9171-f8e9c283b031)
- <br>
+
+Anyways enjoy the project!
