@@ -1,6 +1,6 @@
 # AI Personal Trainer
-This code records the amount of bicep curls, pushups and squats. <br>
-The objective of this project was to learn some computer vision along with applying some linear algebra to calculate angles of specific exercises. 
+This code records the amount of bicep curls, pushups and squats. Videos of the code working are provided in each file with the .mov file <br>
+The objective of this project was to learn some computer vision, with OpenCV and Mediapipe, along with applying some linear algebra to calculate angles of specific exercises. 
 
 <h2> Libraries and Languages </h2>
 OpenCV, Mediapipe, Numpy, and Python 3
@@ -21,3 +21,10 @@ This is me in an up state of a pushup <br>
 <img width="1432" alt="Screenshot 2023-06-01 at 5 26 35 PM" src="https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/a8fd1195-eaa3-474b-b81a-c83e09e56f8a"> <br>
 This is me in the down state of a pushup <br>
 <img width="1438" alt="Screenshot 2023-06-01 at 5 26 56 PM" src="https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/9abf0373-580c-4d36-9be9-aca971307cb7"> <br>
+
+<h3> Squat Counter </h3>
+By readujusting the angles again, but this time including the landmarks of the hip, knee, and ankle, a squat counter could be recreated. Here are the screenshots of the result. <br>
+This is me going down on the fourth rep. <br>
+![Screenshot 2023-06-01 at 5 57 14 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/704a590e-2950-4e8d-902c-071961a7c622) <br>
+This is me up on the fifth rep <br>
+![Screenshot 2023-06-01 at 5 57 36 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/4f374359-22aa-4485-9b97-c947c7bee8f7) <br>
