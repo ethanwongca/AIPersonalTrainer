@@ -23,10 +23,9 @@ This is me in the down state of a pushup <br>
 <img width="1438" alt="Screenshot 2023-06-01 at 5 26 56 PM" src="https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/9abf0373-580c-4d36-9be9-aca971307cb7"> <br>
 
 <h3> Squat Counter </h3>
-By readujusting the angles again, but this time including the landmarks of the hip, knee, and ankle, a squat counter could be recreated. Here are the screenshots of the result. <br>
-This is me going down on the fourth rep. <br>
-![Screenshot 2023-06-01 at 5 57 14 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/53a7a410-4e70-452b-96f0-dbfbe8582b3f) <br>
-This is me up on the fifth rep <br>
-![Screenshot 2023-06-01 at 5 57 36 PM](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/003c4db0-ab15-46d8-9171-f8e9c283b031)
+By readujusting the angles again, but this time including the landmarks of the hip, knee, and ankle, a squat counter could be recreated. Here are the screenshots of the result.<br>
+![Squat_down](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/b7cb6fe3-5c67-4037-bf1e-d098c70f5e21)
+
+![Squat_down](https://github.com/ethanwongca/AIPersonalTrainer/assets/87055387/a125ee68-d2bd-40c9-9fd6-34f6bedded0c)
 
 Anyways enjoy the project!
