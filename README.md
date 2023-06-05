@@ -1,5 +1,6 @@
 # AI Personal Trainer
 This code records the amount of bicep curls, pushups and squats. Videos of the code working are provided in each file with the .mov file <br>
+<h2> Objectives </h2>
 The objective of this project was to learn some computer vision, with OpenCV and Mediapipe, along with applying some linear algebra to calculate angles of specific exercises. 
 
 <h2> Libraries and Languages </h2>
