@@ -4,7 +4,7 @@ This code records the number of bicep curls, pushups and squats. Videos of the c
 The objective of this project was to learn some computer vision, with OpenCV and Mediapipe, along with applying some linear algebra to calculate the angles of specific exercises. 
 
 <h2> Libraries and Languages </h2>
-OpenCV, Mediapipe, Numpy, and Python 3
+OpenCV, MediaPipe, NumPy, and Python 3
 
 <h2> Different Projects </h2>
 
